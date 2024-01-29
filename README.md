@@ -1,5 +1,5 @@
 # CryptoClustering
-![1](Images/CryptoCurrencies.JPG)
+![cryptos](https://github.com/StarkArk/UnsupervisedML_CryptoClustering/blob/main/Images/CryptoCurrencies.png)
 
 ## Intro
 Use python and scikitlearn library to segment crypto currencies into like clusters. Python and the scikitlearn library are used to produce unsupervised machine learning models. A KMeans model is used both with a Full-Featured and 3 component PCA to compare. 
